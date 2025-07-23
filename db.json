@@ -65,6 +65,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Brody Kill"
+    },
+    {
+      "id": 9999999,
+      "category": "education",
+      "title": "Tech Workshop",
+      "description": "Learn basic web development in this beginner-friendly workshop.",
+      "location": "Tech Hall",
+      "date": "August 1, 2025",
+      "time": "10:00",
+      "petsAllowed": false,
+      "organizer": "Code Club"
     }
   ]
 }
